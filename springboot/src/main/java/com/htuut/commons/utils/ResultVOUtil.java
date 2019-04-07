@@ -1,6 +1,6 @@
 package com.htuut.commons.utils;
 
-import com.htuut.validate.vo.ResultVO;
+import com.htuut.commons.vo.ResultVO;
 
 public class ResultVOUtil {
 

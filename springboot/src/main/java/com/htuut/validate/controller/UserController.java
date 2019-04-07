@@ -4,7 +4,7 @@ import com.htuut.commons.enums.ResultEnum;
 import com.htuut.commons.exception.UserException;
 import com.htuut.commons.utils.ResultVOUtil;
 import com.htuut.validate.form.UserForm;
-import com.htuut.validate.vo.ResultVO;
+import com.htuut.commons.vo.ResultVO;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.RequestBody;

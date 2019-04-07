@@ -1,4 +1,4 @@
-package com.htuut.validate.vo;
+package com.htuut.commons.vo;
 
 import lombok.Data;
 
