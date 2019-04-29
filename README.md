@@ -1,7 +1,4 @@
-# springboot
-springboot 常用方法
-
-# 校验相关
+1、# 校验相关
 #### 1、注册用户
 - ##### 请求地址 post：http://localhost:8080/user/register
 - ##### 请求示例
